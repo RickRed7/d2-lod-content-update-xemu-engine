@@ -1,0 +1,5 @@
+Identified Core Logic Files:
+- Armor.txt / Armor.bin (Expansion Tiers)
+- Skills.txt (Class Ability Logic)
+- MonStats.txt (Monster AI/Health parameters)
+- AnimData.d2 (Visual Metadata)
